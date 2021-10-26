@@ -19,7 +19,7 @@ Latest release: [Click This](https://github.com/PhecdaTeam/UUIDSpoofer/releases)
 
 ## Tutorial
 
-1. Download Spoofer.zip from releases
+1. Download [Spoofer.zip](https://github.com/PhecdaTeam/UUIDSpoofer/releases/download/v0.5/Spoofer.zip) from releases
 2. Change ip to your server ip in config.yml  
      ![image](https://user-images.githubusercontent.com/53524461/138898616-1e125a72-336b-421f-96ba-17ecd59b674c.png)
      
